@@ -1,0 +1,9 @@
+node_modules
+data
+notes.md
+
+# vite build
+dist
+geoquack
+
+.DS_Store
