@@ -72,3 +72,5 @@ Using [stac-geoparquet](https://github.com/stac-utils/stac-geoparquet) to conver
 
 - [Great talk from Kyle Barron on the topic](https://www.youtube.com/watch?v=PFWjMHXdRdY)
 - [stac-geoparquet](https://github.com/stac-utils/stac-geoparquet)
+- [Country-level geoparquet files from source.coop](https://source.coop/cholmes/overture/places-geoparquet-country)
+
